@@ -10,7 +10,7 @@
 
 
 
-## Average Words Length
+## Words Returned as List
 <a id="section_2"></a>
 
 
