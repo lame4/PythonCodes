@@ -7,7 +7,8 @@
 
 ## Reverse Integer
 <a id="section_1"></a>
-
+Function rev_int accepts a variable.<br/>
+This variable is converted to a string and reversed nefore returning an integer.
 
 
 ## Words Returned as List
